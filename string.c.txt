@@ -1,0 +1,2 @@
+This is string.c file
+Line 2
